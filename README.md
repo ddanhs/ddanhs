@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @ddanhs
-- 🌱 I’m currently learning AWS, AWS Lambda, Game development with Unity
+- 🌱 I’m currently learning AWS tools, data science, and game development with Unity
 - 📫 Reach me through email at: id.danhs@gmail.com
