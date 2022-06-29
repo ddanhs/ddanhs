@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ddanhs
-- 🌱 Currently learning AWS tools, data science, and game development with Unity
+- 🌱 Currently learning AWS, terraform, drone, and react
 - 🍀 Experienced in Java, Javascript, Typescript, Python, C++, C#
 - 🌿 Skilled in Firebase, DynamoDB, MySQL, Kivy, JavaFX, Android Studio, Unity, 
 - 🌲 Associate Software Engineer @nytimes
