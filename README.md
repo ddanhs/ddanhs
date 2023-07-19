@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ddanhs
-- 🌱 Currently learning AWS, terraform, drone, and react
+- 🌱 Currently learning AWS services, terraform, drone, and react
 - 🍀 Experienced in Java, Javascript, Typescript, Python, C++, C#
-- 🌿 Skilled in Firebase, DynamoDB, MySQL, Kivy, JavaFX, Android Studio, Unity, 
-- 🌲 Associate Software Engineer @nytimes
-- 📫 Reach me through email at: id.danhs@gmail.com
+- 🌿 Skilled in Firebase, DynamoDB, MySQL, Kivy, JavaFX, Android Studio, Unity! 
+- 🌲 Software Engineer @nytimes
+- 📫 Reach me at: id.danhs@gmail.com
